@@ -1,0 +1,75 @@
+[10-Jan-2018 16:01:37 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/dashbord.php on line 8
+[10-Jan-2018 16:03:15 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/dashbord.php on line 8
+[10-Jan-2018 16:12:38 America/Toronto] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/wang59/public_html/to do list/dashbord.php on line 12
+[10-Jan-2018 16:12:55 America/Toronto] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/wang59/public_html/to do list/dashbord.php on line 12
+[10-Jan-2018 16:12:57 America/Toronto] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/wang59/public_html/to do list/dashbord.php on line 12
+[10-Jan-2018 16:12:57 America/Toronto] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/wang59/public_html/to do list/dashbord.php on line 12
+[10-Jan-2018 16:12:57 America/Toronto] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/wang59/public_html/to do list/dashbord.php on line 12
+[10-Jan-2018 16:12:58 America/Toronto] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/wang59/public_html/to do list/dashbord.php on line 12
+[10-Jan-2018 16:13:15 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/dashbord.php on line 8
+[10-Jan-2018 16:17:46 America/Toronto] PHP Parse error:  syntax error, unexpected '?>' in /home/wang59/public_html/to do list/dashbord.php on line 17
+[10-Jan-2018 16:18:20 America/Toronto] PHP Parse error:  syntax error, unexpected ';' in /home/wang59/public_html/to do list/dashbord.php on line 17
+[11-Jan-2018 12:03:08 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/dashbord.php on line 9
+[11-Jan-2018 12:03:44 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/dashbord.php on line 9
+[11-Jan-2018 12:03:45 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/dashbord.php on line 9
+[11-Jan-2018 12:03:46 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/dashbord.php on line 9
+[11-Jan-2018 19:54:12 America/Toronto] PHP Parse error:  syntax error, unexpected 'index' (T_STRING), expecting ',' or ';' in /home/wang59/public_html/to do list/header.php on line 13
+[11-Jan-2018 20:01:44 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/search.php on line 26
+[12-Jan-2018 16:26:23 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/search.php on line 26
+[13-Jan-2018 09:56:14 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/search.php on line 26
+[13-Jan-2018 19:17:37 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/search.php on line 26
+[13-Jan-2018 19:20:07 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/search.php on line 35
+[13-Jan-2018 19:22:58 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/search.php on line 35
+[13-Jan-2018 20:11:23 America/Toronto] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/wang59/public_html/to do list/new_task.php on line 3
+[13-Jan-2018 20:11:23 America/Toronto] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wang59/public_html/to do list/new_task.php on line 3
+[13-Jan-2018 20:11:23 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/new_task.php on line 5
+[15-Jan-2018 01:20:12 America/Toronto] PHP Warning:  include(includes/show_user_account.php): failed to open stream: No such file or directory in /home/wang59/public_html/to do list/dashbord.php on line 4
+[15-Jan-2018 01:20:12 America/Toronto] PHP Warning:  include(): Failed opening 'includes/show_user_account.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wang59/public_html/to do list/dashbord.php on line 4
+[15-Jan-2018 01:20:12 America/Toronto] PHP Fatal error:  Call to a member function execute() on null in /home/wang59/public_html/to do list/dashbord.php on line 35
+[15-Jan-2018 01:22:27 America/Toronto] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/wang59/public_html/to do list/includes/show_user_account.php on line 6
+[15-Jan-2018 01:22:27 America/Toronto] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/wang59/public_html/to do list/dashbord.php on line 35
+[15-Jan-2018 03:23:13 America/Toronto] PHP Parse error:  syntax error, unexpected '<' in /home/wang59/public_html/to do list/new_task.php on line 19
+[15-Jan-2018 03:23:55 America/Toronto] PHP Parse error:  syntax error, unexpected '$stmt1' (T_VARIABLE), expecting ',' or ';' in /home/wang59/public_html/to do list/new_task.php on line 17
+[15-Jan-2018 04:25:42 America/Toronto] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/wang59/public_html/to do list/includes/see_account_detail.php on line 22
+[15-Jan-2018 05:01:02 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/search.php on line 26
+[15-Jan-2018 05:26:48 America/Toronto] PHP Parse error:  syntax error, unexpected '.' in /home/wang59/public_html/to do list/confirm_delete.php on line 20
+[15-Jan-2018 05:52:42 America/Toronto] PHP Parse error:  syntax error, unexpected 'includes' (T_STRING), expecting ',' or ';' in /home/wang59/public_html/to do list/new_task.php on line 24
+[15-Jan-2018 05:54:03 America/Toronto] PHP Parse error:  syntax error, unexpected 'includes' (T_STRING), expecting ',' or ';' in /home/wang59/public_html/to do list/new_task.php on line 26
+[15-Jan-2018 05:57:31 America/Toronto] PHP Parse error:  syntax error, unexpected 'includes' (T_STRING), expecting ',' or ';' in /home/wang59/public_html/to do list/new_task.php on line 16
+[15-Jan-2018 05:57:36 America/Toronto] PHP Parse error:  syntax error, unexpected 'includes' (T_STRING), expecting ',' or ';' in /home/wang59/public_html/to do list/new_task.php on line 16
+[15-Jan-2018 05:59:12 America/Toronto] PHP Parse error:  syntax error, unexpected 'includes' (T_STRING), expecting ',' or ';' in /home/wang59/public_html/to do list/new_task.php on line 17
+[15-Jan-2018 05:59:42 America/Toronto] PHP Parse error:  syntax error, unexpected 'submit' (T_STRING), expecting ',' or ';' in /home/wang59/public_html/to do list/new_task.php on line 26
+[15-Jan-2018 06:00:35 America/Toronto] PHP Parse error:  syntax error, unexpected 'submit' (T_STRING), expecting ',' or ';' in /home/wang59/public_html/to do list/new_task.php on line 25
+[15-Jan-2018 06:00:36 America/Toronto] PHP Parse error:  syntax error, unexpected 'submit' (T_STRING), expecting ',' or ';' in /home/wang59/public_html/to do list/new_task.php on line 25
+[15-Jan-2018 06:15:40 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/search.php on line 26
+[15-Jan-2018 06:17:00 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/search.php on line 26
+[15-Jan-2018 06:17:04 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/search.php on line 26
+[15-Jan-2018 06:23:18 America/Toronto] PHP Fatal error:  Cannot use try without catch or finally in /home/wang59/public_html/to do list/search.php on line 47
+[15-Jan-2018 06:23:43 America/Toronto] PHP Fatal error:  Cannot use try without catch or finally in /home/wang59/public_html/to do list/search.php on line 52
+[15-Jan-2018 06:24:39 America/Toronto] PHP Fatal error:  Cannot use try without catch or finally in /home/wang59/public_html/to do list/search.php on line 50
+[15-Jan-2018 06:25:38 America/Toronto] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/wang59/public_html/to do list/search.php on line 3
+[15-Jan-2018 06:25:38 America/Toronto] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wang59/public_html/to do list/search.php on line 3
+[15-Jan-2018 06:25:38 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/search.php on line 8
+[15-Jan-2018 12:28:29 America/Toronto] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/wang59/public_html/to do list/search.php on line 3
+[15-Jan-2018 12:28:29 America/Toronto] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wang59/public_html/to do list/search.php on line 3
+[15-Jan-2018 12:28:29 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/search.php on line 8
+[16-Jan-2018 16:22:01 America/Toronto] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/wang59/public_html/to do list/search.php on line 3
+[16-Jan-2018 16:22:01 America/Toronto] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wang59/public_html/to do list/search.php on line 3
+[16-Jan-2018 16:22:01 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/search.php on line 8
+[16-Jan-2018 20:00:03 America/Toronto] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/wang59/public_html/to do list/search.php on line 3
+[16-Jan-2018 20:00:03 America/Toronto] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wang59/public_html/to do list/search.php on line 3
+[16-Jan-2018 20:00:03 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/search.php on line 8
+[16-Jan-2018 20:01:48 America/Toronto] PHP Warning:  include(database.php): failed to open stream: No such file or directory in /home/wang59/public_html/to do list/search.php on line 3
+[16-Jan-2018 20:01:48 America/Toronto] PHP Warning:  include(): Failed opening 'database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wang59/public_html/to do list/search.php on line 3
+[16-Jan-2018 20:01:48 America/Toronto] PHP Fatal error:  Call to a member function prepare() on null in /home/wang59/public_html/to do list/search.php on line 8
+[17-Jan-2018 00:36:06 America/Toronto] PHP Fatal error:  Call to a member function execute() on null in /home/wang59/public_html/to do list/searchresult.php on line 35
+[17-Jan-2018 00:36:53 America/Toronto] PHP Fatal error:  Call to a member function execute() on null in /home/wang59/public_html/to do list/searchresult.php on line 35
+[17-Jan-2018 00:36:56 America/Toronto] PHP Fatal error:  Call to a member function execute() on null in /home/wang59/public_html/to do list/searchresult.php on line 35
+[17-Jan-2018 00:37:45 America/Toronto] PHP Fatal error:  Call to a member function execute() on null in /home/wang59/public_html/to do list/searchresult.php on line 35
+[17-Jan-2018 00:37:48 America/Toronto] PHP Fatal error:  Call to a member function execute() on null in /home/wang59/public_html/to do list/searchresult.php on line 35
+[17-Jan-2018 00:41:39 America/Toronto] PHP Fatal error:  Call to a member function execute() on null in /home/wang59/public_html/to do list/searchresult.php on line 35
+[17-Jan-2018 00:41:45 America/Toronto] PHP Fatal error:  Call to a member function execute() on null in /home/wang59/public_html/to do list/searchresult.php on line 35
+[17-Jan-2018 00:43:00 America/Toronto] PHP Fatal error:  Call to a member function execute() on null in /home/wang59/public_html/to do list/searchresult.php on line 35
+[17-Jan-2018 00:43:14 America/Toronto] PHP Fatal error:  Call to a member function execute() on null in /home/wang59/public_html/to do list/searchresult.php on line 35
+[17-Jan-2018 00:49:46 America/Toronto] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/wang59/public_html/to do list/includes/search.php on line 10
+[17-Jan-2018 00:49:46 America/Toronto] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/wang59/public_html/to do list/searchresult.php on line 35

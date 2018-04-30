@@ -1,0 +1,7 @@
+[14-Jan-2018 15:22:24 America/Toronto] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/wang59/public_html/to do list/includes/insertaccount.php on line 61
+[14-Jan-2018 15:22:24 America/Toronto] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wang59/public_html/to do list/includes/insertaccount.php:61) in /home/wang59/public_html/to do list/includes/insertaccount.php on line 62
+[16-Jan-2018 13:48:32 America/Toronto] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/wang59/public_html/to do list/includes/editidea.php on line 22
+[16-Jan-2018 20:03:15 America/Toronto] PHP Parse error:  syntax error, unexpected end of file in /home/wang59/public_html/to do list/includes/search.php on line 50
+[16-Jan-2018 20:08:58 America/Toronto] PHP Fatal error:  Call to a member function fetch() on null in /home/wang59/public_html/to do list/includes/search.php on line 16
+[16-Jan-2018 20:13:20 America/Toronto] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wang59/public_html/to do list/includes/search.php:14) in /home/wang59/public_html/to do list/includes/search.php on line 32
+[21-Jan-2018 20:21:39 America/Toronto] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/wang59/public_html/to do list/includes/editidea.php on line 22
